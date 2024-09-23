@@ -33,7 +33,7 @@ public class QueueB {
             arr[rear] = data;
         }
 
-        public static int remove() {
+        public int remove() {
             if (isEmpty()) {
                 System.out.println("empty queue");
                 return -1;
