@@ -1,5 +1,4 @@
 //circular queue using array
-//yay theak hai yahan run nahi ho rha online compiler me ho raha h 
 public class QueueB {
     static class Queue {
         static int arr[];
