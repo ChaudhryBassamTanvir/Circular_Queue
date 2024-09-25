@@ -1,3 +1,4 @@
+//circular queue using array
 public class QueueB {
     static class Queue {
         static int arr[];
